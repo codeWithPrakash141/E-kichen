@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344561814031",
+    "project_id": "kitchenapp-68bd5",
+    "storage_bucket": "kitchenapp-68bd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344561814031:android:26515cb6c243a34eac317a",
+        "android_client_info": {
+          "package_name": "com.example.pahadi_kitchen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxfd-1Hs6PNqRGk1W5dzkFOdyW9NYK3ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
